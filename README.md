@@ -99,7 +99,7 @@ The layout is fully responsive and optimized for:
 
 ## 🚀 Live Demo
 
-👉 https://SEU_USUARIO.github.io/roofdocs-landing/
+👉 https://jaozinnm.github.io/roofdocs-landing/
 
 ---
 
